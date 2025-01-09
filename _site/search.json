@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hey! I’m Polina and my main focus lies in a data science, with a particular interest in causal inference and experimentation. Outside of the academic life, I also enjoy hiking and bouldering."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Hey! I’m Polina and my main focus lies in a data science, with a particular interest in causal inference and experimentation.\nOutside of the academic life, I also enjoyed hiking and bouldering."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project examines the impact of network interference on causal inference in observational data, focusing on how treatment effects may be biased when units interact within a network. By simulating different network structures and varying levels of neighbour influence, the research aims to assess how these factors affect causal estimates and find method to correct for the biases."
+  },
+  {
+    "objectID": "projects.html#current-projects",
+    "href": "projects.html#current-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "This project examines the impact of network interference on causal inference in observational data, focusing on how treatment effects may be biased when units interact within a network. By simulating different network structures and varying levels of neighbour influence, the research aims to assess how these factors affect causal estimates and find method to correct for the biases."
+  },
+  {
+    "objectID": "projects.html#past-projects",
+    "href": "projects.html#past-projects",
+    "title": "Projects",
+    "section": "Past projects",
+    "text": "Past projects\n\nHow State-controlled Media in Authoritarian Settings Affect news content\nGeographic classification of news and topic models were used to analyse how Russian State-controlled media change their content as a response to economic crises. Results showed that there is a negative connection between the share of news about the E.U. and indicators of Russian economy.\nPresented in the XXIII Yasin (April) International Academic Conference on Economic and Social Development, HSE (2022) and International Conference on Computational Social Science, ETH Zurich (2021)\n\n\nMeasuring public opinion in Russia through analysis of online petitions on change.org\nPredicting petition’s popularity by its topics and named entities. Presented in the International Conference on Computational Social Science, MIT 2021"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can find my CV here."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUtrecht University, Netherlands | MSc Methodology and Statistics for the Behavioural, Biomedical and Social Sciences | 2023-2025\nHigher School of Economics, Moscow, Russia | BA Political Sciences | 2017 - 2021"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUtrecht University, Netherlands | MSc Methodology and Statistics for the Behavioural, Biomedical and Social Sciences | 2023-2025\nHigher School of Economics, Moscow, Russia | BA Political Sciences | 2017 - 2021"
+  }
+]

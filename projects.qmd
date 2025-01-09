@@ -1,0 +1,16 @@
+---
+title: "Projects"
+---
+## Current projects 
+### Enhancing Causal Inference with Network Information
+This project examines the impact of network interference on causal inference in observational data, focusing on how treatment effects may be biased when units interact within a network. By simulating different network structures and varying levels of neighbour influence, the
+research aims to assess how these factors affect causal estimates and find method to correct for the biases. 
+
+## Past projects
+### How State-controlled Media in Authoritarian Settings Affect news content 
+Geographic classification of news and topic models were used to analyse how Russian State-controlled media change their content as a response to economic crises. Results showed  that there is a negative connection between the share of news about the E.U. and indicators of Russian economy. 
+
+Presented in the [XXIII Yasin (April) International Academic Conference on Economic and Social Development, HSE](https://conf.hse.ru/en/2022/}) (2022) and [International Conference on Computational Social Science, ETH Zurich](https://easychair.org/smart-program/IC2S2-2021/program.html) (2021)
+
+### Measuring public opinion in Russia through analysis of online petitions on change.org 
+Predicting petition's popularity by its topics and named entities. Presented in the [International Conference on Computational Social Science, MIT](https://ic2s2.mit.edu/program) 2021
